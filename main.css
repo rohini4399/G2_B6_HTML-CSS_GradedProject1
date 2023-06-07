@@ -1,3 +1,8 @@
+.container{
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
 header{
     color: white;
     background-color: rgb(70, 70, 70);
@@ -16,6 +21,7 @@ footer{
     margin-top: 20px;
 }
 body{
+    padding-top: 120px;
     margin: 0;
 }
 .menu {
